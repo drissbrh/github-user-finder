@@ -1,0 +1,84 @@
+.container1 {
+  background-color: #333;
+  max-width: 500px;
+  max-height: 1000px;
+  border-radius: 15px;
+  color: white;
+  box-shadow: 0px 10px 10px #ccc;
+}
+
+.container2 {
+  justify-content: center;
+
+  border-radius: 5px;
+}
+.container21 {
+  justify-content: space-between;
+
+  padding: 0px 130px 0px 70px;
+  border-radius: 5px;
+}
+.inpu {
+  max-width: 300px;
+  max-height: 40px;
+  background-color: #333;
+  color: white;
+  outline: none;
+  border: none;
+}
+.search {
+  width: 30px;
+  height: 30px;
+  margin-right: 11px;
+}
+#profile {
+  max-width: 110px;
+  max-height: 110px;
+  border-radius: 50px;
+
+  margin-left: 10px;
+}
+
+#btnn {
+  max-height: 40px;
+}
+.biog {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.myBio {
+  display: flex;
+  max-height: 300px;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 25px 0px 25px;
+}
+.container3 {
+  max-width: 400px;
+  height: 100px;
+  background-color: black;
+  align-items: center;
+  border-radius: 10px;
+  padding: 0px 35px 0px 35px;
+  justify-content: space-between;
+}
+
+.icon {
+  width: 25px;
+  height: 25px;
+  margin-right: 25px;
+  margin-left: 35px;
+}
+.links {
+  height: 40px;
+}
+
+.container4 {
+  display: flex;
+  background-color: #333;
+  max-width: 500px;
+  height: 500px;
+  align-items: center;
+  justify-content: center;
+}
